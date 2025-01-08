@@ -90,7 +90,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               });
                             },
                             buttonText: buttons[index],
-                            color: Colors.blue[50],
+                            color: Colors.black87,
                             textColor: Colors.black,
                           );
                         }
@@ -99,7 +99,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         else if (index == 1) {
                           return MyButton(
                             buttonText: buttons[index],
-                            color: Colors.blue[50],
+                            color: Colors.black87,
                             textColor: Colors.black,
                           );
                         }
@@ -112,7 +112,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               });
                             },
                             buttonText: buttons[index],
-                            color: Colors.blue[50],
+                            color: Colors.black87,
                             textColor: Colors.black,
                           );
                         }
